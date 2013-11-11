@@ -21,3 +21,8 @@ local.properties
 .settings/org.eclipse.jdt.core.prefs
 
 .DS_Store
+
+# Android Studio
+.gradle
+*.iml
+build
